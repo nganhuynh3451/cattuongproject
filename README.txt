@@ -1,11 +1,12 @@
 
 TITLE: 
-Display - Responsive Free HTML5 template
+Thang máy Cát Tường
 
 AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
+DESIGNED by FREEHTML5.co
 http://freehtml5.co/
-
+MAINTAINED AND DEVELOPED by thangmay.cattuongproject.com
+https://thangmay.cattuongproject.com
 
 CREDITS:
 
