@@ -908,7 +908,7 @@ body.fh5co-mobile-menu-visible #fh5co-mobile-menu {
 
 
 .fh5co-portfolio {
-  background-color: #f2d5d7;
+  background-color: #f6f9fa;
   background-image: url(../img/camera-bg.jpg);
   background-position: right bottom;
   background-repeat: no-repeat;
@@ -960,7 +960,7 @@ body.fh5co-mobile-menu-visible #fh5co-mobile-menu {
         float: left !important; } }
 
 .activity {
-  background: #f3e7e8;
+  background: #f6f9fa;
   padding-bottom: 50px; }
   .activity .recent {
     margin-top: 0; }
